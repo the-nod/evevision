@@ -42,10 +42,23 @@ const beans: {
   99004344: "holecontrol",
   99005065: "hardknocks",
   99009082: "mango",
-  109299958: "ccp",
-  924269309: "ccp", // ISD
-  98075603: "ccp", // ISD CCL
   99004425: "bastion",
+  109299958: "ccp",
+  924269309: "ccp",
+  98075603: "ccp",
+  215297637: "darkside", //Far East Inc
+  1254691423: "darkside", //Russian SOBR
+  98644227: "darkside", //Stainganistan
+  967501471: "darkside", //SoT
+  98570535: "darkside", //NanoNerf Inc.
+  98525525: "darkside", //Fallen Visor
+  98649865: "darkside", //Good-Fellas
+  98524062: "darkside", //Gentlemen-at-Arms
+  98151839: "darkside", //Cookies Dealers
+  98658302: "drg", // DE.SH
+  98066511: "drg", // Fair People
+  98627830: "nod", //Inncer Circle.
+  98659370: "nod", //Black Hand
 };
 
 class Welcome extends Component<WelcomeProps, WelcomeState> {
